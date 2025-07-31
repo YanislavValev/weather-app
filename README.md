@@ -10,4 +10,4 @@ Basic app, which shows current weather and 5 day forecast for specific location.
 
 ## project setup
 
-After loading the project in VS, Weather Api key must be added in script.js. For starting up the project, please open the 'index' file, located in the weather-app folder. 
+Weather Api key must be added in script.js. For starting up the project, please open the 'index' file, located in the weather-app folder. 
