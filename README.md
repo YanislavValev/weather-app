@@ -4,9 +4,9 @@ Basic app, which shows current weather and 5 day forecast for specific location.
 
 ## technologies used
 
--javascript
--html
--css
+- javascript
+- html
+- css
 
 ## project setup
 
